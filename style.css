@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(6, 6, 43);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.star{
+    position: relative;
+    height: 0;
+    width: 0;
+    border-bottom: 220px solid wheat;
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+}
+.star::before{
+    content: '';
+    position: absolute;
+    left: -130px;
+    top: 70px;
+    height: 0;
+    width: 0;
+    border-top: 220px solid wheat;
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+}
