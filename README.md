@@ -1,2 +1,2 @@
 # CssDrawing-star
-How to create a triangle in css 
+How to create a Star shape in css? 
