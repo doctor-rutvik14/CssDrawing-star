@@ -1,7 +1,7 @@
 # CssDrawing-star
 How to create a Star shape in css? 
 
-We can create star by combining 2 triangles, one tiangle as it is and one upside down.
+We can create star by combining 2 triangles, one triangle as it is and one upside down.
 So, let's start how to make a triangle:
 
 ◙ Let's insight 
