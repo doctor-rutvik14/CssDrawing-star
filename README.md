@@ -12,5 +12,7 @@ So, let's start how to make a triangle:
     
     ○ It also has the other borders such as border-left and border-right.
     
+    ![Test Image 4](https://github.com/doctor-rutvik14/CssDrawing-star/blob/master/Images/pic1.png)
+    
     ○ Notice how the borders are intersecting each other at a particular angles.
     
