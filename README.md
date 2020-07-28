@@ -26,3 +26,9 @@ So, let's start how to make a triangle:
     ○ Will lead us getting a triangle shape as shown below. 
     
 ![](https://raw.githubusercontent.com/doctor-rutvik14/CssDrawing-star/master/Images/pic3.jpg)
+
+How to create upside down triangle: The whole procedure is same instead of using border-bottom you have to use border-top.
+
+Now, getting back on how to make a star. After creating a triangle and upside down triangle it's time to merge them. 
+Here, we have to use ::before selector to create an upside-down triangle before the normal triangle shape.
+The ::before selector inserts something before the content of each selected element.
