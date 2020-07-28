@@ -15,3 +15,7 @@ So, let's start how to make a triangle:
 ![](https://raw.githubusercontent.com/doctor-rutvik14/CssDrawing-star/master/Images/pic1.jpg)
 
     ○ Notice how the borders are intersecting each other at a particular angles.
+    
+    ○ Now, reducing to zero width and zero height. We'll get such kinda shape
+
+![](https://raw.githubusercontent.com/doctor-rutvik14/CssDrawing-star/master/Images/pic2.jpg)
