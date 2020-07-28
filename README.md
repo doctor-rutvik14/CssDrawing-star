@@ -16,6 +16,6 @@ So, let's start how to make a triangle:
 
     ○ Notice how the borders are intersecting each other at a particular angles.
     
-    ○ Now, reducing to zero width and zero height. We'll get such kinda shape
+    ○ Now, reducing to zero width and zero height. We'll get such kind off shape
 
 ![](https://raw.githubusercontent.com/doctor-rutvik14/CssDrawing-star/master/Images/pic2.jpg)
