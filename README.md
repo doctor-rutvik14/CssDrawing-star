@@ -21,7 +21,8 @@ So, let's start how to make a triangle:
 ![](https://raw.githubusercontent.com/doctor-rutvik14/CssDrawing-star/master/Images/pic2.jpg)
 
     ○ Changing the background of the rectangle to transparent, border left to transparent, 
-    which is currently brown in color and changing border right to transparent which is currently blue in color.
+    which is currently brown in color and changing border right to transparent which is
+    currently blue in color.
     
     ○ Will lead us getting a triangle shape as shown below. 
     
